@@ -27,7 +27,7 @@ A Railway Admin Dashboard helps authorities track crowds and update layouts, ens
 
 
 ## Technology Stack
-
+```
 1.Mobile App: React Native / Flutter
 2.Backend: Node.js / Django / Firebase
 3.Database: PostgreSQL / MongoDB / Firebase Firestore
@@ -35,9 +35,12 @@ A Railway Admin Dashboard helps authorities track crowds and update layouts, ens
 5.AI/ML for Predictive Analysis: TensorFlow / OpenCV
 6.Cloud Services: AWS / Google Cloud / Azure
 7.IoT for Real-time Updates: RFID, Beacons, or GPS Sensors
+```
 ## Dependencies
+```
 1.Railway API Integration – For fetching real-time train schedules and platform updates. 
 2.Government Database Access – To keep station layout and facility details up-to-date.
 3.Cloud Storage – To store user data, navigation history, and real-time updates.
 4.IoT Devices – For tracking footfall, detecting congestion, and providing live updates.
 5.Multi-Language Support – To cater to passengers across different regions.
+```
